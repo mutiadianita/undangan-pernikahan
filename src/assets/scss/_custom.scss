@@ -1,0 +1,23 @@
+.navbar-brand {
+  font-family: $font-family-parisienne;
+  font-size: 24px;
+}
+.nav-link {
+  font-weight: 500;
+}
+.card-header {
+  background-color: $primary;
+  color: white;
+  font-family: $font-family-parisienne;
+  text-align: center;
+}
+.card-text {
+  color: $secondary;
+  font-size: 18px;
+  text-align: center;
+}
+.carousel-item {
+  img {
+    width:100%;
+  }
+}
